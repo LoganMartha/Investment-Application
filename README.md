@@ -1,5 +1,27 @@
-# Cplusplus-Program
+# Airgead Banking App Project
 
-Airgead Banking App Project:
+This application focuses on **investing** and demonstrates the power of **compound interest**. It allows users to visualize how their investments will grow over time, making financial concepts accessible regardless of the user's prior investment experience.
 
-  I created an application that focused on investing and the power of compound interest.  I developed an application that allows users to see how their investments will grow over time.  I felt, in this specific project, I did a good job in providing a clean and readable output that made it easy for any user, regardless of investment experience, to uderstand the function of the application.  One way I could enhance my code was making my 'main' function shorter.  I could have added a few more functions in order to clean up this area.  I made sure I did that in my next project, and did make my 'main' very minimal.  When it came to the difficulty, I feel it was not super tough.  The part that was the hardest was not even the coding aspect.  It was getting the correct calculations and translating them to code.  At points it got a little tough to read, but I did clean it up as best as I could.  I need to plan these parts more thoroughly in the future.  I feel that anytime I can complete a project, the entirety of the process will help me with future projects.  Anytime you are trying to excel at any skill, practcing and repetition is the best way to get better at it.  The more coding I do the better I will be at it.  My skills of utlizing functions got a lot better during this project.  Before I would try to cram all code in the 'main" function, but this project as helped me learn to keep that section at a minimum.  I am not perfect at it yet, but definitely improved from previous projects.  In order to make the code maintainable. readable, and adaptable, utilizing well-known and consitent coding style is important.  Having a style agreed upon by a team or group of programmers, is important in order to understand and read code.  When you are able to read and undertand the coding style, it makes it maintainable and adaptable if needed in the future.
+## Project Highlights
+
+- Delivered a **clean and readable output** that simplifies complex investment calculations for all users.
+- Developed functionality to calculate and display the growth of investments with compound interest over time.
+- Improved my use of **functions** to keep the `main` function concise and organized, enhancing code readability and maintainability.
+- Focused on translating accurate mathematical calculations into code, which was the most challenging part of the project.
+
+## Lessons Learned
+
+- Planning and breaking down complex calculations before coding helps avoid confusion and improves code clarity.
+- Practicing good coding style and **consistent formatting** is essential for maintainability and teamwork.
+- Reducing the size of the `main` function by modularizing code into smaller functions significantly improves readability.
+- Continued practice and repetition are key to advancing programming skills.
+
+## Future Improvements
+
+- Further refactor code to improve modularity and reusability.
+- Enhance user interface for even clearer interaction.
+- Expand functionality to include additional investment options and scenarios.
+
+---
+
+*This project has been a valuable step in strengthening my programming fundamentals and preparing me for more complex software development tasks.*
