@@ -16,12 +16,6 @@ This application focuses on **investing** and demonstrates the power of **compou
 - Reducing the size of the `main` function by modularizing code into smaller functions significantly improves readability.
 - Continued practice and repetition are key to advancing programming skills.
 
-## Future Improvements
-
-- Further refactor code to improve modularity and reusability.
-- Enhance user interface for even clearer interaction.
-- Expand functionality to include additional investment options and scenarios.
-
 ---
 
 *This project has been a valuable step in strengthening my programming fundamentals and preparing me for more complex software development tasks.*
